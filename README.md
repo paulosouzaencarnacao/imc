@@ -1,3 +1,3 @@
 # DevLinks: Calculadora imc
-![Website Template](imagemcalculadoraimc.png)
-![Website Template](imagemimc.png)
+![Website Template](imagemcalculadoraimc)
+![Website Template](imagemimc)
